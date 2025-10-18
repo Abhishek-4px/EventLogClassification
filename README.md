@@ -103,7 +103,7 @@ GOOGLE_API_KEY = "AIzaSy..."
 In `app.py`, replace the hardcoded API key with a call to Streamlit secrets:
 ```python
 # In app.py, replace this line:
-# api_key = "AIzaSyDPIzRvmlT70wpmYt3LmnWxKl8QuW5K5pk"
+# api_key = "YYOU_GEMINI_API_KEY"
 
 # With this line:
 api_key = st.secrets["GOOGLE_API_KEY"]

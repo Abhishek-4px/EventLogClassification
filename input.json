@@ -1,0 +1,958 @@
+[
+  {
+    "Event ID": 0,
+    "Message": "2025-03-11 22:57:22.778 UTC [5460] LOG:  redirecting log output to logging collector process\n2025-03-11 22:57:22.778 UTC [5460] HINT:  Future log output will appear in directory \"log\"."
+  },
+  {
+    "Event ID": 1,
+    "Message": "File System Filter 'CldFlt' (Version 10.0, ?2008?-?12?-?25T02:48:25.000000000Z) unloaded successfully."
+  },
+  {
+    "Event ID": 3,
+    "Message": "The miniport 'Microsoft Hyper-V Network Adapter #2' was successfully initialized"
+  },
+  {
+    "Event ID": 5,
+    "Message": "ADM Connector (1.0_8.0.1.967) Start: pid 10964, tid 4"
+  },
+  {
+    "Event ID": 6,
+    "Message": "File System Filter 'CldFlt' (10.0, ?2008?-?12?-?25T02:48:25.000000000Z) has successfully loaded and registered with Filter Manager."
+  },
+  {
+    "Event ID": 11,
+    "Message": "Miniport NIC 'Microsoft Hyper-V Network Adapter #2' restarted"
+  },
+  {
+    "Event ID": 12,
+    "Message": "The operating system started at system time ?2025?-?03?-?11T22:56:13.500000000Z."
+  },
+  {
+    "Event ID": 13,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 device detects that the link is up, and has initiated a normal operation."
+  },
+  {
+    "Event ID": 14,
+    "Message": "Credential Guard configuration: 0x0, 0"
+  },
+  {
+    "Event ID": 15,
+    "Message": "Hive \\??\\C:\\Windows\\System32\\SMI\\Store\\Machine\\SCHEMA.DAT was reorganized with a starting size of 13402112 bytes and an ending size of 11681792 bytes."
+  },
+  {
+    "Event ID": 16,
+    "Message": "The access history in hive \\??\\C:\\Users\\.NET v4.5 Classic\\NTUSER.DAT was cleared updating 1 keys and creating 1 modified pages."
+  },
+  {
+    "Event ID": 18,
+    "Message": "There are 0x1 boot options on this system."
+  },
+  {
+    "Event ID": 19,
+    "Message": "Installation Successful: Windows successfully installed the following update: 2025-03 Cumulative Update for Windows Server 2019 (1809) for x64-based Systems (KB5053596)"
+  },
+  {
+    "Event ID": 20,
+    "Message": "The last shutdown's success status was true. The last boot's success status was true."
+  },
+  {
+    "Event ID": 25,
+    "Message": "The boot menu policy was 0x0."
+  },
+  {
+    "Event ID": 26,
+    "Message": "Application popup: Idle timer expired : Session has been idle over its time limit.\nIt will be disconnected in 2 minutes.\nPress any key now to continue session."
+  },
+  {
+    "Event ID": 27,
+    "Message": "The boot type was 0x0."
+  },
+  {
+    "Event ID": 30,
+    "Message": "The firmware reported boot metrics."
+  },
+  {
+    "Event ID": 32,
+    "Message": "The bootmgr spent 0 ms waiting for user input."
+  },
+  {
+    "Event ID": 35,
+    "Message": "The time service is now synchronizing the system time with the time source VM IC Time Synchronization Provider with reference id 1347702102. Current local stratum number is 4."
+  },
+  {
+    "Event ID": 37,
+    "Message": "The time provider NtpClient is currently receiving valid time data from time.windows.com,0x8 (ntp.m|0x8|0.0.0.0:123->168.61.215.74:123)."
+  },
+  {
+    "Event ID": 43,
+    "Message": "Installation Started: Windows has started installing the following update: 2025-03 Cumulative Update for Windows Server 2019 (1809) for x64-based Systems (KB5053596)"
+  },
+  {
+    "Event ID": 44,
+    "Message": "Windows Update started downloading an update."
+  },
+  {
+    "Event ID": 46,
+    "Message": "VF adapter '\\DEVICE\\{3BD0846C-87E2-4C14-AC49-10C6D4AFF353}' did not report NDK capabilities."
+  },
+  {
+    "Event ID": 47,
+    "Message": "Time Provider NtpClient: No valid response has been received from manually configured peer time.windows.com,0x8 after 8 attempts to contact it. This peer will be discarded as a time source and NtpClient will attempt to discover a new peer with this DNS name. The error was: The peer is unreachable."
+  },
+  {
+    "Event ID": 55,
+    "Message": "Processor 3 in group 0 exposes the following power management capabilities:Idle state type: ACPI Idle (C) States (1 state(s))Performance state type: NoneNominal Frequency (MHz): 2095Maximum performance percentage: 100Minimum performance percentage: 100Minimum throttle percentage: 100"
+  },
+  {
+    "Event ID": 64,
+    "Message": "Certificate for local system with Thumbprint 0e 1e 53 4b df a9 27 86 da 90 53 70 27 91 e7 bc 61 a9 04 6a is about to expire or already expired."
+  },
+  {
+    "Event ID": 98,
+    "Message": "Volume C: (\\Device\\HarddiskVolume4) is healthy.  No action is needed."
+  },
+  {
+    "Event ID": 102,
+    "Message": "SearchIndexer (8800,P,98) Windows: The database engine (10.00.17763.0000) is starting a new instance (0)."
+  },
+  {
+    "Event ID": 105,
+    "Message": "svchost (3164,D,0) DS_Token_DB: The database engine started a new instance (0). (Time=0 seconds)  Additional Data: lgposV2[] = 0000000A:0001:0000 - 0000000A:0003:002B - 0000000A:0004:0000 - 0000000A:0004:0000 (00000000:0000:0000)cReInits = 1  Internal Timing Sequence: [1] 0.000735 +J(0) +M(C:0K, Fs:142, WS:556K # 556K, PF:2376K # 2376K, P:2376K)[2] 0.000547 +J(0) +M(C:8K, Fs:101, WS:392K # 392K, PF:1152K # 1152K, P:1152K)[3] 0.000044 +J(0) +M(C:0K, Fs:9, WS:32K # 32K, PF:68K # 68K, P:68K)[4] 0.000216 +J(0) +M(C:0K, Fs:57, WS:228K # 228K, PF:160K # 160K, P:160K)[5] 0.001207 +J(0) +M(C:0K, Fs:7, WS:28K # 28K, PF:20K # 20K, P:20K)[6] 0.005154 +J(0) +M(C:0K, Fs:41, WS:164K # 164K, PF:28K # 28K, P:28K)[7] 0.003378 -0.001281 (2) WT +J(0) +M(C:0K, Fs:33, WS:132K # 132K, PF:64K # 64K, P:64K)[8] 0.033210 -0.006505 (11) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:12168/7) +M(C:0K, Fs:126, WS:348K # 352K, PF:248K # 252K, P:248K)[9] 0.000808 +J(0) +M(C:0K, Fs:4, WS:16K # 12K, PF:0K # 0K, P:0K)[10] 0.000929 -0.000138 (1) WT +J(0) +M(C:0K, Fs:0, WS:-60K # 0K, PF:-60K # 0K, P:-60K)[11] 0.000384 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:2, WS:8K # 0K, PF:0K # 0K, P:0K)[12] 0.004565 -0.001958 (2) WT +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K)[13] 0.076237 -0.000190 (2) CM -0.024770 (23) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:69, WS:156K # 172K, PF:212K # 216K, P:212K)[14] 0.000019 +J(0)[15] 0.000017 +J(0)[16] 0.000761 -0.000096 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K)."
+  },
+  {
+    "Event ID": 109,
+    "Message": "The kernel power manager has initiated a shutdown transition.\n\nShutdown Reason: Kernel API"
+  },
+  {
+    "Event ID": 153,
+    "Message": "Virtualization-based security (policies: 0) is disabled."
+  },
+  {
+    "Event ID": 172,
+    "Message": "Connectivity state in standby: Disconnected, Reason: NIC compliance"
+  },
+  {
+    "Event ID": 258,
+    "Message": "The storage optimizer successfully completed retrim on AppData (F:)"
+  },
+  {
+    "Event ID": 262,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 has got:\n    vendor_id      \t15b3\n    device_id      \t1016\n    subvendor_id   \t15b3\n    subsystem_id   \t0190\n    HW revision    \t80\n    FW version     \t14.30.5000\n    port type      \tETH"
+  },
+  {
+    "Event ID": 285,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4: is currently running:\n     Driver Version:       \t2.70.24728.0\n     Firmware Version:     \t14.30.5000\n     PSID number:          \tMSF0010110035"
+  },
+  {
+    "Event ID": 286,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4: is currently running:\n     GUID:                 \t0022:48ff:fd1f:3cd6\n     MAC:                  \t00-22-48-1F-3C-D6"
+  },
+  {
+    "Event ID": 289,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 Traffic flow is in restarting state."
+  },
+  {
+    "Event ID": 290,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4 Traffic flow is in running state."
+  },
+  {
+    "Event ID": 300,
+    "Message": "svchost (3164,R,98) DS_Token_DB: The database engine is initiating recovery steps."
+  },
+  {
+    "Event ID": 301,
+    "Message": "svchost (3164,R,98) DS_Token_DB: The database engine has finished replaying logfile C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\DataSharing\\Storage\\DSS.log.  Processing Stats: [1] 0.023290 -0.004661 (7) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:12168/7) +M(C:0K, Fs:70, WS:204K # 148K, PF:152K # 84K, P:152K). Log record of type 'AttachDB ' was seen most frequently (1 times)"
+  },
+  {
+    "Event ID": 302,
+    "Message": "svchost (3164,U,98) DS_Token_DB: The database engine has successfully completed recovery steps."
+  },
+  {
+    "Event ID": 326,
+    "Message": "svchost (3164,D,50) DS_Token_DB: The database engine attached a database (1, C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\DataSharing\\Storage\\DSTokenDB2.dat). (Time=0 seconds)  Saved Cache: 1 0 Additional Data: lgposAttach = 0000000A:0006:0268  Internal Timing Sequence: [1] 0.000004 +J(0)[2] 0.001928 -0.001329 (1) WT +J(0) +M(C:0K, Fs:17, WS:4K # 4K, PF:4K # 0K, P:4K)[3] 0.028898 -0.004570 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:11, WS:40K # 0K, PF:40K # 0K, P:40K)[4] 0.000722 +J(0)[5] -[6] -[7] -[8] 0.000374 -0.000207 (2) CM -0.000139 (2) WT +J(CM:2, PgRf:2, Rd:4/2, Dy:0/0, Lg:0/0) +M(C:8K, Fs:3, WS:12K # 0K, PF:8K # 0K, P:8K)[9] 0.000803 -0.000512 (3) CM -0.000427 (3) WT +J(CM:3, PgRf:23, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:0K, Fs:24, WS:88K # 76K, PF:196K # 188K, P:196K)[10] 0.000356 -0.000223 (3) CM -0.000147 (3) WT +J(CM:3, PgRf:40, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 4K, PF:64K # 56K, P:64K)[11] 0.000013 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K)[12] 0.000064 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:5, WS:20K # 20K, PF:0K # 0K, P:0K)[13] 0.0 +J(0)[14] 0.0 +J(0)[15] 0.000006 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)."
+  },
+  {
+    "Event ID": 379,
+    "Message": "Mellanox ConnectX-4 Lx Virtual Ethernet Adapter #4: Zero Touch RoCE: Some of the required capabilities are not supported by FW.\n Requested: SlowRestart = 1, TxWindow = 1, AdpRetrans = 1\n Supported: SlowRestart = 0, TxWindow = 0, AdpRetrans = 0"
+  },
+  {
+    "Event ID": 781,
+    "Message": "The COM+ sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\\Software\\Microsoft\\COM3\\Eventlog."
+  },
+  {
+    "Event ID": 900,
+    "Message": "The Software Protection service is starting.\nParameters:<explicit>"
+  },
+  {
+    "Event ID": 902,
+    "Message": "The Software Protection service has started.\n10.0.17763.7009"
+  },
+  {
+    "Event ID": 903,
+    "Message": "The Software Protection service has stopped."
+  },
+  {
+    "Event ID": 1000,
+    "Message": "Performance counters for the WmiApRpl (WmiApRpl) service were loaded successfully. The Record Data in the data section contains the new index values assigned to this service."
+  },
+  {
+    "Event ID": 1001,
+    "Message": "Performance counters for the WmiApRpl (WmiApRpl) service were removed successfully. The Record Data contains the new values of the system Last Counter and Last Help registry entries."
+  },
+  {
+    "Event ID": 1003,
+    "Message": "The Windows Search Service started."
+  },
+  {
+    "Event ID": 1014,
+    "Message": "Name resolution for the name 1f6fa344-ce4d-490d-9354-fd970ff42674.ods.opinsights.azure.com timed out after none of the configured DNS servers responded."
+  },
+  {
+    "Event ID": 1029,
+    "Message": "Product: Microsoft Azure Site Recovery Mobility Service/Master Target Server. Restart required. The installation or update for the product required a restart for all changes to take effect.  The restart was deferred to a later time."
+  },
+  {
+    "Event ID": 1033,
+    "Message": "These policies are being excluded since they are only defined with override-only attribute.\nPolicy Names=(Security-SPP-Reserved-EnableNotificationMode) \nApp Id=55c92734-d682-4d71-983e-d6ec3f16059f\nSku Id=34e1ae55-27f8-4950-8877-7a03be5fb181"
+  },
+  {
+    "Event ID": 1034,
+    "Message": "Duplicate definition of policy found. Policy name=AAD-WindowsCore-AddAccountRestrictions  Priority=100"
+  },
+  {
+    "Event ID": 1035,
+    "Message": "Windows Installer reconfigured the product. Product Name: Microsoft Azure Site Recovery Mobility Service/Master Target Server. Product Version: 9.64.7314.1. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0."
+  },
+  {
+    "Event ID": 1038,
+    "Message": "Windows Installer requires a system restart. Product Name: Microsoft Azure Site Recovery Mobility Service/Master Target Server. Product Version: 9.64.7314.1. Product Language: 1033. Manufacturer: Microsoft Corporation. Type of System Restart: 2. Reason for Restart: 1."
+  },
+  {
+    "Event ID": 1040,
+    "Message": "Beginning a Windows Installer transaction: C:\\Packages\\Plugins\\Microsoft.Azure.RecoveryServices.SiteRecovery.Windows\\1.0.0.9245\\MobilityServiceInstaller\\UNIFIEDAGENTMSI.MSI. Client Process Id: 10652."
+  },
+  {
+    "Event ID": 1042,
+    "Message": "Ending a Windows Installer transaction: C:\\Packages\\Plugins\\Microsoft.Azure.RecoveryServices.SiteRecovery.Windows\\1.0.0.9245\\MobilityServiceInstaller\\UNIFIEDAGENTMSI.MSI. Client Process Id: 10652."
+  },
+  {
+    "Event ID": 1066,
+    "Message": "Initialization status for service objects.C:\\Windows\\system32\\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000C:\\Windows\\system32\\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000"
+  },
+  {
+    "Event ID": 1074,
+    "Message": "The process C:\\Windows\\system32\\svchost.exe (USEAZSMARTFTP01) has initiated the restart of computer USEAZSMARTFTP01 on behalf of user NT AUTHORITY\\SYSTEM for the following reason: Operating System: Service pack (Planned) Reason Code: 0x80020010 Shutdown Type: restart Comment:"
+  },
+  {
+    "Event ID": 1100,
+    "Message": "The event logging service has shut down."
+  },
+  {
+    "Event ID": 1309,
+    "Message": "Event code: 3005 Event message: An unhandled exception has occurred. Event time: 2/22/2025 8:12:56 PM Event time (UTC): 2/22/2025 8:12:56 PM Event ID: 600da4ddc2b44977b61fabfe9f3c3773 Event sequence: 1832 Event occurrence: 1 Event detail code: 0  Application information:     Application domain: /LM/W3SVC/1/ROOT-1-133847279938018226     Trust level: Full     Application Virtual Path: /     Application Path: C:\\inetpub\\wwwroot\\     Machine name: USEAZSPDFTP04  Process information:     Process ID: 12676     Process name: w3wp.exe     Account name: IIS APPPOOL\\DefaultAppPool  Exception information:     Exception type: HttpException     Exception message: A potentially dangerous Request.Path value was detected from the client (:).   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)  Request information:     Request URL: https://USEAZRSPDFTP01.gep.com:443/DB4Web/USEAZInfoSecReport:23/foo     Request path: /DB4Web/USEAZInfoSecReport:23/foo     User host address: 172.20.13.208     User:      Is authenticated: False     Authentication Type:      Thread account name: IIS APPPOOL\\DefaultAppPool  Thread information:     Thread ID: 28     Thread account name: IIS APPPOOL\\DefaultAppPool     Is impersonating: False     Stack trace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)  Custom event details:"
+  },
+  {
+    "Event ID": 1531,
+    "Message": "The User Profile Service has started successfully."
+  },
+  {
+    "Event ID": 1532,
+    "Message": "The User Profile Service has stopped."
+  },
+  {
+    "Event ID": 1796,
+    "Message": "The Secure Boot update failed to update a Secure Boot variable with error Secure Boot is not enabled on this machine.. For more information, please see https://go.microsoft.com/fwlink/?linkid=2169931"
+  },
+  {
+    "Event ID": 2003,
+    "Message": "The configuration information of the performance library \"C:\\Windows\\system32\\InterceptCounters.dll\" for the \"InterceptCountersManager\" service does not match the trusted performance library information stored in the registry. The functions in this library will not be treated as trusted."
+  },
+  {
+    "Event ID": 2017,
+    "Message": "Unable to collect NUMA physical memory utilization data. The first four bytes (DWORD) of the Data section contains the status code."
+  },
+  {
+    "Event ID": 4111,
+    "Message": "Successful auto update of third-party root list with effective date: ?Tuesday, ?January ?28, ?2025 12:46:32 AM."
+  },
+  {
+    "Event ID": 4202,
+    "Message": "MSDTC started with the following settings: Security Configuration (OFF = 0 and ON = 1): Allow Remote Administrator = 0, Network Clients = 0, Transaction Manager Communication:  Allow Inbound Transactions = 0, Allow Outbound Transactions = 0, Transaction Internet Protocol (TIP) = 0,  Enable XA Transactions = 0,  Enable SNA LU 6.2 Transactions = 1,  MSDTC Communications Security = Mutual Authentication Required, Account = NT AUTHORITY\\NetworkService,  Firewall Exclusion Detected = 0 Transaction Bridge Installed = 0 Filtering Duplicate Events = 1"
+  },
+  {
+    "Event ID": 4608,
+    "Message": "Windows is starting up.\n\nThis event is logged when LSASS.EXE starts and the auditing subsystem is initialized."
+  },
+  {
+    "Event ID": 4610,
+    "Message": "An authentication package has been loaded by the Local Security Authority.\nThis authentication package will be used to authenticate logon attempts.\n\nAuthentication Package Name:\tC:\\Windows\\system32\\msv1_0.DLL : MICROSOFT_AUTHENTICATION_PACKAGE_V1_0"
+  },
+  {
+    "Event ID": 4611,
+    "Message": "A trusted logon process has been registered with the Local Security Authority.This logon process will be trusted to submit logon requests.Subject: Security ID:  S-1-5-18 Account Name:  USSPDDEVDB04$ Account Domain:  GEP Logon ID:  0x3E7Logon Process Name:  UserManager"
+  },
+  {
+    "Event ID": 4614,
+    "Message": "A notification package has been loaded by the Security Account Manager.\nThis package will be notified of any account or password changes.\n\nNotification Package Name:\tKDCPW"
+  },
+  {
+    "Event ID": 4616,
+    "Message": "The system time was changed.Subject: Security ID:  S-1-5-19 Account Name:  LOCAL SERVICE Account Domain:  NT AUTHORITY Logon ID:  0x3E5Process Information: Process ID: 0x424 Name:  C:\\Windows\\System32\\svchost.exePrevious Time:  ?2025?-?03?-?14T17:20:51.997746000ZNew Time:  ?2025?-?03?-?14T17:20:52.004372200ZThis event is generated when the system time is changed. It is normal for the Windows Time Service, which runs with System privilege, to change the system time on a regular basis. Other system time changes may be indicative of attempts to tamper with the computer."
+  },
+  {
+    "Event ID": 4622,
+    "Message": "A security package has been loaded by the Local Security Authority.\n\nSecurity Package Name:\tC:\\Windows\\system32\\cloudAP.DLL : CloudAP"
+  },
+  {
+    "Event ID": 4624,
+    "Message": "An account was successfully logged on.Subject: Security ID:  S-1-5-20 Account Name:  EUNAZRSPDFTP1-N$ Account Domain:  WORKGROUP Logon ID:  0x3E4Logon Information: Logon Type:  8 Restricted Admin Mode: - Virtual Account:  No Elevated Token:  NoImpersonation Level:  ImpersonationNew Logon: Security ID:  S-1-5-21-4168947982-2554143436-4086189163-1001 Account Name:  IPS_smartftp Account Domain:  EUNAZRSPDFTP1-N Logon ID:  0x40B0CB97 Linked Logon ID:  0x0 Network Account Name: - Network Account Domain: - Logon GUID:  {00000000-0000-0000-0000-000000000000}Process Information: Process ID:  0xec4 Process Name:  C:\\Windows\\SysWOW64\\inetsrv\\w3wp.exeNetwork Information: Workstation Name: EUNAZRSPDFTP1-N Source Network Address: - Source Port:  -Detailed Authentication Information: Logon Process:  Advapi   Authentication Package: Negotiate Transited Services: - Package Name (NTLM only): - Key Length:  0This event is generated when a logon session is created. It is generated on the computer that was accessed.The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.The impersonation level field indicates the extent to which a process in the logon session can impersonate.The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+  },
+  {
+    "Event ID": 4625,
+    "Message": "An account failed to log on.Subject: Security ID:  S-1-5-18 Account Name:  SEAAZRSDC03$ Account Domain:  GEP Logon ID:  0x3E7Logon Type:   3Account For Which Logon Failed: Security ID:  S-1-0-0 Account Name:  SvcLeoMdbAuthConnect Account Domain:  GEPFailure Information: Failure Reason:  The specified account's password has expired. Status:   0xC000006E Sub Status:  0xC0000071Process Information: Caller Process ID: 0x334 Caller Process Name: C:\\Windows\\System32\\lsass.exeNetwork Information: Workstation Name: SEAAZRSDC03 Source Network Address: 192.168.34.7 Source Port:  58218Detailed Authentication Information: Logon Process:  Advapi   Authentication Package: MICROSOFT_AUTHENTICATION_PACKAGE_V1_0 Transited Services: - Package Name (NTLM only): - Key Length:  0This event is generated when a logon request fails. It is generated on the computer where access was attempted.The Subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.The Logon Type field indicates the kind of logon that was requested. The most common types are 2 (interactive) and 3 (network).The Process Information fields indicate which account and process on the system requested the logon.The Network Information fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.The authentication information fields provide detailed information about this specific logon request. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+  },
+  {
+    "Event ID": 4627,
+    "Message": "Group membership information.Subject: Security ID:  S-1-0-0 Account Name:  - Account Domain:  - Logon ID:  0x0Logon Type:   3New Logon: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27958643 Account Name:  MUM02L11318$ Account Domain:  GEP.COM Logon ID:  0x16A958CC3Event in sequence:  1 of 1Group Membership:     %{S-1-5-21-932416472-1581942402-1327342795-515}  %{S-1-1-0}  %{S-1-5-32-554}  %{S-1-5-32-545}  %{S-1-5-2}  %{S-1-5-11}  %{S-1-5-15}  %{S-1-5-21-932416472-1581942402-1327342795-27729472}  %{S-1-18-1}  %{S-1-16-8448}The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.This event is generated when the Audit Group Membership subcategory is configured.  The Logon ID field can be used to correlate this event with the corresponding user logon event as well as to any other security audit events generated during this logon session."
+  },
+  {
+    "Event ID": 4634,
+    "Message": "An account was logged off.Subject: Security ID:  S-1-5-21-580355598-3368204733-2967366707-1001 Account Name:  IPS_smartftp Account Domain:  USEAZSPDFTP04 Logon ID:  0x5CEFA843Logon Type:   2This event is generated when a logon session is destroyed. It may be positively correlated with a logon event using the Logon ID value. Logon IDs are only unique between reboots on the same computer."
+  },
+  {
+    "Event ID": 4647,
+    "Message": "User initiated logoff:Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27941113 Account Name:  Sachint0 Account Domain:  GEP Logon ID:  0x2A8D863CThis event is generated when a logoff is initiated. No further user-initiated activity can occur. This event can be interpreted as a logoff event."
+  },
+  {
+    "Event ID": 4648,
+    "Message": "A logon was attempted using explicit credentials.Subject: Security ID:  S-1-5-82-2502795-2290409902-159026534-96860550-3370483566 Account Name:  WS_FTP_SERVER Account Domain:  IIS APPPOOL Logon ID:  0x449A43A Logon GUID:  {00000000-0000-0000-0000-000000000000}Account Whose Credentials Were Used: Account Name:  IPS_smartftp Account Domain:  USEAZSPDFTP04 Logon GUID:  {00000000-0000-0000-0000-000000000000}Target Server: Target Server Name: localhost Additional Information: localhostProcess Information: Process ID:  0x228c Process Name:  C:\\Windows\\SysWOW64\\inetsrv\\w3wp.exeNetwork Information: Network Address: 104.211.91.170 Port:   50864This event is generated when a process attempts to log on an account by explicitly specifying that account’s credentials.  This most commonly occurs in batch-type configurations such as scheduled tasks, or when using the RUNAS command."
+  },
+  {
+    "Event ID": 4656,
+    "Message": "A handle to an object was requested.Subject: Security ID:  S-1-5-18 Account Name:  SEAAZRSDC04$ Account Domain:  GEP Logon ID:  0x3E7Object: Object Server:  Security Object Type:  Key Object Name:  \\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Advanced Threat Protection Handle ID:  0x490 Resource Attributes: -Process Information: Process ID:  0x6b0 Process Name:  C:\\Windows\\System32\\svchost.exeAccess Request Information: Transaction ID:  {00000000-0000-0000-0000-000000000000} Accesses:  DELETE    READ_CONTROL    WRITE_DAC    WRITE_OWNER    Query key value    Set key value    Create sub-key    Enumerate sub-keys    Notify about changes to keys    Create Link     Access Reasons:  - Access Mask:  0xF003F Privileges Used for Access Check: - Restricted SID Count: 0"
+  },
+  {
+    "Event ID": 4657,
+    "Message": "A registry value was modified.Subject: Security ID:  S-1-5-18 Account Name:  MUMWDCP03$ Account Domain:  GEP Logon ID:  0x3E7Object: Object Name:  \\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Autologger\\EventLog-System\\{11cd958a-c507-4ef3-b3f2-5fd9dfbd2c78} Object Value Name: MatchAnyKeyword Handle ID:  0x1e8 Operation Type:  Existing registry value modifiedProcess Information: Process ID:  0x14d0 Process Name:  C:\\Windows\\System32\\wevtutil.exeChange Information: Old Value Type:  REG_QWORD Old Value:  0x8000000000000000 New Value Type:  REG_QWORD New Value:  0xC000000000000000"
+  },
+  {
+    "Event ID": 4658,
+    "Message": "The handle to an object was closed.Subject : Security ID:  S-1-5-18 Account Name:  SEAAZRSDC04$ Account Domain:  GEP Logon ID:  0x3E7Object: Object Server:  Security Handle ID:  0x490Process Information: Process ID:  0x6b0 Process Name:  C:\\Windows\\System32\\svchost.exe"
+  },
+  {
+    "Event ID": 4659,
+    "Message": "A handle to an object was requested with intent to delete.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSPDFTP04$ Account Domain:  WORKGROUP Logon ID:  0x3E7Object: Object Server: Security Object Type: File Object Name: C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Temp\\dismApiWrapperPath\\JEF459A.tmp Handle ID: 0x0Process Information: Process ID: 0xdd0Access Request Information: Transaction ID: {00000000-0000-0000-0000-000000000000} Accesses: DELETE    READ_CONTROL    SYNCHRONIZE    ReadData (or ListDirectory)    WriteData (or AddFile)    AppendData (or AddSubdirectory or CreatePipeInstance)    ReadEA    WriteEA    ReadAttributes    WriteAttributes     Access Mask: 0x13019F Privileges Used for Access Check: -"
+  },
+  {
+    "Event ID": 4660,
+    "Message": "An object was deleted.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Object: Object Server: Security Handle ID: 0x5c0Process Information: Process ID: 0x25d0 Process Name: C:\\Program Files\\Windows Defender Advanced Threat Protection\\SenseIR.exe Transaction ID: {00000000-0000-0000-0000-000000000000}"
+  },
+  {
+    "Event ID": 4661,
+    "Message": "A handle to an object was requested.Subject : Security ID:  S-1-5-21-932416472-1581942402-1327342795-27926779 Account Name:  Saloni.Ushire Account Domain:  GEP Logon ID:  0x169204D1EObject: Object Server: Security Account Manager Object Type: SAM_GROUP Object Name: S-1-5-21-932416472-1581942402-1327342795-512 Handle ID: 0x2c942d93820Process Information: Process ID: 0x33c Process Name: C:\\Windows\\System32\\lsass.exeAccess Request Information: Transaction ID: {00000000-0000-0000-0000-000000000000} Accesses: READ_CONTROL    AddMember    ListMembers    Undefined Access (no effect) Bit 7     Access Reasons:  - Access Mask: 0x20094 Privileges Used for Access Check: - Properties: --- {bf967a9c-0de6-11d0-a285-00aa003049e2}READ_CONTROLAddMemberListMembersUndefined Access (no effect) Bit 7   {bf9679e8-0de6-11d0-a285-00aa003049e2}   {3e0abfd0-126a-11d0-a060-00aa006c33ed}  {bc0ac240-79a9-11d0-9020-00c04fc2d4cf}   {bf9679c0-0de6-11d0-a285-00aa003049e2}  {59ba2f42-79a2-11d0-9020-00c04fc2d3cf} Restricted SID Count: 0"
+  },
+  {
+    "Event ID": 4662,
+    "Message": "An operation was performed on an object.Subject : Security ID:  S-1-5-18 Account Name:  USEAZUATFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Object: Object Server:  WMI Object Type:  WMI Namespace Object Name:  root\\CIMV2\\Security\\MicrosoftVolumeEncryption Handle ID:  0x0Operation: Operation Type:  Object Access Accesses:  Unknown specific access (bit 0)     Access Mask:  0x1 Properties:  -Additional Information: Parameter 1:  Local Read (ExecQuery) Parameter 2:  root\\CIMV2\\Security\\MicrosoftVolumeEncryption:references of {__Win32Provider.Name=\"Win32_EncryptableVolumeProvider\"}"
+  },
+  {
+    "Event ID": 4663,
+    "Message": "An attempt was made to access an object.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Object: Object Server:  Security Object Type:  File Object Name:  C:\\ProgramData\\Microsoft\\Windows Defender Advanced Threat Protection\\Temp\\PSScriptOutputs\\PSScript_Output_{A7104D6C-AE4B-46C6-BB54-AB4FA163B97A}.txt Handle ID:  0x550 Resource Attributes: S:AIProcess Information: Process ID:  0x25d0 Process Name:  C:\\Program Files\\Windows Defender Advanced Threat Protection\\SenseIR.exeAccess Request Information: Accesses:  DELETE     Access Mask:  0x10000"
+  },
+  {
+    "Event ID": 4664,
+    "Message": "An attempt was made to create a hard link.Subject: Account Name:  S-1-5-18 Account Name:  USEAZUATFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Link Information: File Name: C:\\Windows\\WinSxS\\x86_mscorlib_b77a5c561934e089_4.0.15744.1170_none_7a02250fa8e24941\\normnfd.nlp Link Name: C:\\Windows\\WinSxS\\x86_mscorlib_b77a5c561934e089_4.0.15744.551_none_5f364f58670632b5\\normnfd.nlp Transaction ID: {f471462f-0418-11f0-9bae-000d3a569fe0}"
+  },
+  {
+    "Event ID": 4670,
+    "Message": "Permissions on an object were changed.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Object: Object Server: Security Object Type: Token Object Name: - Handle ID: 0x590Process: Process ID: 0xc60 Process Name: C:\\Windows\\System32\\svchost.exePermissions Change: Original Security Descriptor: D:(A;;GA;;;SY)(A;;GA;;;LS) New Security Descriptor: D:(A;;GA;;;SY)(A;;RC;;;OW)(A;;GA;;;S-1-5-86-1544737700-199408000-2549878335-3519669259-381336952)"
+  },
+  {
+    "Event ID": 4672,
+    "Message": "Special privileges assigned to new logon.\n\nSubject:\n\tSecurity ID:\t\tS-1-5-17\n\tAccount Name:\t\tIUSR\n\tAccount Domain:\t\tNT AUTHORITY\n\tLogon ID:\t\t0x3E3\n\nPrivileges:\t\tSeImpersonatePrivilege"
+  },
+  {
+    "Event ID": 4673,
+    "Message": "A privileged service was called.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Service: Server: NT Local Security Authority / Authentication Service Service Name: LsaRegisterLogonProcess()Process: Process ID: 0x360 Process Name: C:\\Windows\\System32\\lsass.exeService Request Information: Privileges:  SeTcbPrivilege"
+  },
+  {
+    "Event ID": 4674,
+    "Message": "An operation was attempted on a privileged object.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27951727 Account Name:  Laxman.Vemunurit1 Account Domain:  GEP Logon ID:  0x5E83E702Object: Object Server: Security Object Type: - Object Name: - Object Handle: 0x408Process Information: Process ID: 0x7d4c Process Name: C:\\Windows\\System32\\wsmprovhost.exeRequested Operation: Desired Access: 2031617 Privileges:  SeTakeOwnershipPrivilege"
+  },
+  {
+    "Event ID": 4675,
+    "Message": "SIDs were filtered.Target Account: Security ID:  S-1-5-21-3611907846-4248448592-3007916314-16102 Account Name:  - Account Domain:  -Trust Information: Trust Direction: 2 Trust Attributes: 8 Trust Type: 2 TDO Domain SID: S-1-5-21-3611907846-4248448592-3007916314Filtered SIDs:   %{S-1-5-9}"
+  },
+  {
+    "Event ID": 4688,
+    "Message": "A new process has been created.Creator Subject: Security ID:  S-1-5-18 Account Name:  USEAZUATFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Target Subject: Security ID:  S-1-0-0 Account Name:  - Account Domain:  - Logon ID:  0x0Process Information: New Process ID:  0x2680 New Process Name: C:\\Program Files\\New Relic\\newrelic-infra\\newrelic-integrations\\nr-winpkg.exe Token Elevation Type: %%1936 Mandatory Label:  S-1-16-16384 Creator Process ID: 0x1824 Creator Process Name: C:\\Program Files\\New Relic\\newrelic-infra\\newrelic-infra.exe Process Command Line: ./nr-winpkgToken Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."
+  },
+  {
+    "Event ID": 4689,
+    "Message": "A process has exited.\n\nSubject:\n\tSecurity ID:\t\tS-1-5-18\n\tAccount Name:\t\tCLKWDCP01$\n\tAccount Domain:\t\tGEP\n\tLogon ID:\t\t0x3E7\n\nProcess Information:\n\tProcess ID:\t0x1500\n\tProcess Name:\tC:\\Windows\\System32\\svchost.exe\n\tExit Status:\t0x0"
+  },
+  {
+    "Event ID": 4690,
+    "Message": "An attempt was made to duplicate a handle to an object.Subject: Security ID:  S-1-5-18 Account Name:  SEAAZRSDC04$ Account Domain:  GEP Logon ID:  0x3E7Source Handle Information: Source Handle ID: 0x490 Source Process ID: 0x6b0New Handle Information: Target Handle ID: 0x44a8 Target Process ID: 0x4"
+  },
+  {
+    "Event ID": 4696,
+    "Message": "A primary token was assigned to process.Subject: Security ID:  S-1-5-18 Account Name:  - Account Domain:  - Logon ID:  0x3E7Process Information: Process ID: 0x4 Process Name: Target Process: Target Process ID: 0x58 Target Process Name: RegistryNew Token Information: Security ID:  S-1-0-0 Account Name:  - Account Domain:  - Logon ID:  0x3E7"
+  },
+  {
+    "Event ID": 4697,
+    "Message": "A service was installed in the system.Subject: Security ID:  S-1-5-18 Account Name:  MUMWDCP03$ Account Domain:  GEP Logon ID:  0x3E7Service Information: Service Name:   UserDataSvc_359f343d Service File Name: C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup Service Type:   0xE0 Service Start Type: 3 Service Account:   LocalSystem"
+  },
+  {
+    "Event ID": 4698,
+    "Message": "A scheduled task was created.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Task Information: Task Name:   \\Microsoft\\Windows\\UpdateOrchestrator\\AC Power Install Task Content:   <?xml version=\"1.0\" encoding=\"UTF-16\"?><Task version=\"1.4\" xmlns=\"http://schemas.microsoft.com/windows/2004/02/mit/task\">  <RegistrationInfo>    <URI>\\Microsoft\\Windows\\UpdateOrchestrator\\AC Power Install</URI>  </RegistrationInfo>  <Triggers>    <WnfStateChangeTrigger>      <Enabled>true</Enabled>      <StateName>7508BCA3380C960C</StateName>      <Data>01000000</Data>      <DataOffset>0</DataOffset>    </WnfStateChangeTrigger>  </Triggers>  <Settings>    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>    <AllowHardTerminate>true</AllowHardTerminate>    <StartWhenAvailable>true</StartWhenAvailable>    <RunOnlyIfNetworkAvailable>false</RunOnlyIfNetworkAvailable>    <IdleSettings>      <Duration>PT10M</Duration>      <WaitTimeout>PT1H</WaitTimeout>      <StopOnIdleEnd>true</StopOnIdleEnd>      <RestartOnIdle>false</RestartOnIdle>    </IdleSettings>    <AllowStartOnDemand>true</AllowStartOnDemand>    <Enabled>true</Enabled>    <Hidden>false</Hidden>    <RunOnlyIfIdle>false</RunOnlyIfIdle>    <DisallowStartOnRemoteAppSession>false</DisallowStartOnRemoteAppSession>    <UseUnifiedSchedulingEngine>false</UseUnifiedSchedulingEngine>    <WakeToRun>true</WakeToRun>    <ExecutionTimeLimit>PT72H</ExecutionTimeLimit>    <Priority>7</Priority>  </Settings>  <Actions Context=\"Author\">    <Exec>      <Command>%systemroot%\\system32\\usoclient.exe</Command>      <Arguments>StartInstall</Arguments>    </Exec>  </Actions>  <Principals>    <Principal id=\"Author\">      <UserId>S-1-5-18</UserId>      <RunLevel>LeastPrivilege</RunLevel>    </Principal>  </Principals></Task>Other Information: ProcessCreationTime:   12103423998558556 ClientProcessId:    5024 ParentProcessId:    840 FQDN:   0"
+  },
+  {
+    "Event ID": 4699,
+    "Message": "A scheduled task was deleted.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Task Information: Task Name:   \\Microsoft\\Windows\\UpdateOrchestrator\\AC Power Install Task Content:   Other Information: ProcessCreationTime:   12103423998558556 ClientProcessId:    5024 ParentProcessId:    840 FQDN:   0"
+  },
+  {
+    "Event ID": 4700,
+    "Message": "A scheduled task was enabled.Subject: Security ID:  S-1-5-20 Account Name:  USSPDPRODTM01$ Account Domain:  GEP Logon ID:  0x3E4Task Information: Task Name:   \\Microsoft\\Windows\\SoftwareProtectionPlatform\\SvcRestartTaskNetwork Task Content:   <?xml version=\"1.0\" encoding=\"UTF-16\"?><Task xmlns=\"http://schemas.microsoft.com/windows/2004/02/mit/task\">  <RegistrationInfo>    <Version>1.0</Version>    <SecurityDescriptor>D:P(A;;FA;;;SY)(A;;FA;;;BA)(A;;FRFW;;;S-1-5-80-123231216-2592883651-3715271367-3753151631-4175906628)(A;;FR;;;S-1-5-87-431836887-2321537645-4075769387-3393595759-2187231311)</SecurityDescriptor>    <Source>$(@%systemroot%\\system32\\sppc.dll,-200)</Source>    <Author>$(@%systemroot%\\system32\\sppc.dll,-200)</Author>    <Description>$(@%systemroot%\\system32\\sppc.dll,-203)</Description>    <URI>\\Microsoft\\Windows\\SoftwareProtectionPlatform\\SvcRestartTaskNetwork</URI>  </RegistrationInfo>  <Principals>    <Principal id=\"NetworkService\">      <UserId>S-1-5-20</UserId>    </Principal>  </Principals>  <Settings>    <AllowHardTerminate>false</AllowHardTerminate>    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>    <ExecutionTimeLimit>PT0S</ExecutionTimeLimit>    <Hidden>true</Hidden>    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>    <RestartOnFailure>      <Count>3</Count>      <Interval>PT1M</Interval>    </RestartOnFailure>    <IdleSettings>      <StopOnIdleEnd>true</StopOnIdleEnd>      <RestartOnIdle>false</RestartOnIdle>    </IdleSettings>    <UseUnifiedSchedulingEngine>true</UseUnifiedSchedulingEngine>  </Settings>  <Triggers>    <EventTrigger>      <Subscription>&lt;QueryList&gt;&lt;Query Id=\"0\" Path=\"Microsoft-Windows-NetworkProfile/Operational\"&gt;&lt;Select Path=\"Microsoft-Windows-NetworkProfile/Operational\"&gt;*[System[EventID=10000]]&lt;/Select&gt;&lt;/Query&gt;&lt;/QueryList&gt;</Subscription>    </EventTrigger>  </Triggers>  <Actions Context=\"NetworkService\">    <ComHandler>      <ClassId>{B1AEBB5D-EAD9-4476-B375-9C3ED9F32AFC}</ClassId>      <Data><![CDATA[network]]></Data>    </ComHandler>  </Actions></Task>Other Information: ProcessCreationTime:   8162774324689892 ClientProcessId:    10192 ParentProcessId:    760 FQDN:   0"
+  },
+  {
+    "Event ID": 4701,
+    "Message": "A scheduled task was disabled.Subject: Security ID:  S-1-5-20 Account Name:  USSPDDEVDB04$ Account Domain:  GEP Logon ID:  0x3E4Task Information: Task Name:   \\Microsoft\\Windows\\SoftwareProtectionPlatform\\SvcRestartTask Task Content:   <?xml version=\"1.0\" encoding=\"UTF-16\"?><Task version=\"1.6\" xmlns=\"http://schemas.microsoft.com/windows/2004/02/mit/task\">  <RegistrationInfo>    <Version>1.0</Version>    <SecurityDescriptor>D:P(A;;FA;;;SY)(A;;FA;;;BA)(A;;FA;;;S-1-5-80-123231216-2592883651-3715271367-3753151631-4175906628)(A;;FR;;;S-1-5-87-2912274048-3994893941-1669128114-1310430903-1263774323)</SecurityDescriptor>    <Source>$(@%systemroot%\\system32\\sppc.dll,-200)</Source>    <Author>$(@%systemroot%\\system32\\sppc.dll,-200)</Author>    <Description>$(@%systemroot%\\system32\\sppc.dll,-201)</Description>    <URI>\\Microsoft\\Windows\\SoftwareProtectionPlatform\\SvcRestartTask</URI>  </RegistrationInfo>  <Principals>    <Principal id=\"NetworkService\">      <UserId>S-1-5-20</UserId>    </Principal>  </Principals>  <Settings>    <AllowHardTerminate>false</AllowHardTerminate>    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>    <Enabled>false</Enabled>    <ExecutionTimeLimit>PT0S</ExecutionTimeLimit>    <Hidden>true</Hidden>    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>    <RestartOnFailure>      <Count>3</Count>      <Interval>PT1M</Interval>    </RestartOnFailure>    <StartWhenAvailable>true</StartWhenAvailable>    <IdleSettings>      <StopOnIdleEnd>true</StopOnIdleEnd>      <RestartOnIdle>false</RestartOnIdle>    </IdleSettings>    <UseUnifiedSchedulingEngine>true</UseUnifiedSchedulingEngine>  </Settings>  <Triggers>    <CalendarTrigger>      <StartBoundary>2025-03-19T08:51:33+00:00</StartBoundary>      <ScheduleByDay>        <DaysInterval>1</DaysInterval>      </ScheduleByDay>    </CalendarTrigger>  </Triggers>  <Actions Context=\"NetworkService\">    <ComHandler>      <ClassId>{B1AEBB5D-EAD9-4476-B375-9C3ED9F32AFC}</ClassId>      <Data><![CDATA[timer]]></Data>    </ComHandler>  </Actions></Task>Other Information: ProcessCreationTime:   18858823439774905 ClientProcessId:    12052 ParentProcessId:    840 FQDN:   0"
+  },
+  {
+    "Event ID": 4702,
+    "Message": "A scheduled task was updated.Subject: Security ID:  S-1-5-18 Account Name:  EUNAZRSPDFTP1-N$ Account Domain:  WORKGROUP Logon ID:  0x3E7Task Information: Task Name:   \\Microsoft\\Windows\\Windows Error Reporting\\QueueReporting Task New Content:   <?xml version=\"1.0\" encoding=\"UTF-16\"?><Task version=\"1.6\" xmlns=\"http://schemas.microsoft.com/windows/2004/02/mit/task\">  <RegistrationInfo>    <Source>$(@%SystemRoot%\\system32\\wer.dll,-292)</Source>    <Author>$(@%SystemRoot%\\system32\\wer.dll,-293)</Author>    <Version>1.5</Version>    <Description>$(@%SystemRoot%\\system32\\wer.dll,-294)</Description>    <URI>\\Microsoft\\Windows\\Windows Error Reporting\\QueueReporting</URI>    <SecurityDescriptor>D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)</SecurityDescriptor>  </RegistrationInfo>  <Triggers>    <BootTrigger id=\"QueueReportingBootTrigger\">      <Enabled>true</Enabled>      <Delay>PT3M</Delay>    </BootTrigger>    <WnfStateChangeTrigger id=\"QueueReportingWnfTrigger\">      <Enabled>true</Enabled>      <StateName>7510BCA33A0B9441</StateName>      <Data>01</Data>      <DataOffset>0</DataOffset>    </WnfStateChangeTrigger>    <WnfStateChangeTrigger id=\"QueueReportingFreeNetworkTrigger\">      <Enabled>true</Enabled>      <StateName>7510BCA33E0B8441</StateName>      <Data>03</Data>      <DataOffset>0</DataOffset>    </WnfStateChangeTrigger>    <TimeTrigger id=\"QueueReportingTimeTrigger\">      <Repetition>        <Interval>PT30M</Interval>        <StopAtDurationEnd>false</StopAtDurationEnd>      </Repetition>      <StartBoundary>2025-03-19T09:49:37Z</StartBoundary>      <Enabled>true</Enabled>      <RandomDelay>PT30M</RandomDelay>    </TimeTrigger>  </Triggers>  <Principals>    <Principal id=\"LocalSystem\">      <UserId>S-1-5-18</UserId>      <RunLevel>HighestAvailable</RunLevel>    </Principal>  </Principals>  <Settings>    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>    <DisallowStartIfOnBatteries>true</DisallowStartIfOnBatteries>    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>    <AllowHardTerminate>true</AllowHardTerminate>    <StartWhenAvailable>true</StartWhenAvailable>    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>    <IdleSettings>      <StopOnIdleEnd>false</StopOnIdleEnd>      <RestartOnIdle>false</RestartOnIdle>    </IdleSettings>    <AllowStartOnDemand>true</AllowStartOnDemand>    <Enabled>true</Enabled>    <Hidden>false</Hidden>    <RunOnlyIfIdle>false</RunOnlyIfIdle>    <DisallowStartOnRemoteAppSession>false</DisallowStartOnRemoteAppSession>    <UseUnifiedSchedulingEngine>true</UseUnifiedSchedulingEngine>    <WakeToRun>false</WakeToRun>    <ExecutionTimeLimit>PT4H</ExecutionTimeLimit>    <Priority>7</Priority>  </Settings>  <Actions Context=\"LocalSystem\">    <Exec>      <Command>%windir%\\system32\\wermgr.exe</Command>      <Arguments>-upload</Arguments>    </Exec>  </Actions></Task>Other Information: ProcessCreationTime:   12384898975365391 ClientProcessId:    10320 ParentProcessId:    1744 FQDN:   0"
+  },
+  {
+    "Event ID": 4703,
+    "Message": "A token right was adjusted.Subject: Security ID:  S-1-5-18 Account Name:  SEAAZRSDC04$ Account Domain:  GEP Logon ID:  0x3E7Target Account: Security ID:  S-1-0-0 Account Name:  SEAAZRSDC04$ Account Domain:  GEP Logon ID:  0x3E7Process Information: Process ID:  0x6b0 Process Name:  C:\\Windows\\System32\\svchost.exeEnabled Privileges:   SeSecurityPrivilegeDisabled Privileges:   -"
+  },
+  {
+    "Event ID": 4719,
+    "Message": "System audit policy was changed.Subject: Security ID:  S-1-5-18 Account Name:  USE2AZRSDC03$ Account Domain:  GEP Logon ID:  0x3E7Audit Policy Change: Category:  Logon/Logoff Subcategory:  IPsec Quick Mode Subcategory GUID: {0cce9219-69ae-11d9-bed3-505054503030} Changes:  Success Added, Failure added"
+  },
+  {
+    "Event ID": 4720,
+    "Message": "A user account was created.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27938107 Account Name:  LeenaAIBotT2 Account Domain:  GEP Logon ID:  0x1A3EC32B0New Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27966867 Account Name:  saloni.pawanarkar Account Domain:  GEPAttributes: SAM Account Name: saloni.pawanarkar Display Name:  Saloni Pawanarkar User Principal Name: saloni.pawanarkar@gep.com Home Directory:  - Home Drive:  - Script Path:  - Profile Path:  - User Workstations: - Password Last Set: <never> Account Expires:  <never> Primary Group ID: 513 Allowed To Delegate To: - Old UAC Value:  0x0 New UAC Value:  0x15 User Account Control:   Account Disabled  'Password Not Required' - Enabled  'Normal Account' - Enabled User Parameters: - SID History:  - Logon Hours:  <value not set>Additional Information: Privileges  -"
+  },
+  {
+    "Event ID": 4722,
+    "Message": "A user account was enabled.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27953816 Account Name:  Mukunthrt2 Account Domain:  GEP Logon ID:  0x16942E3A4Target Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27964692 Account Name:  CBT-DR9T244$ Account Domain:  GEP"
+  },
+  {
+    "Event ID": 4723,
+    "Message": "An attempt was made to change an account's password.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27948134 Account Name:  AZINDCITAPP01$ Account Domain:  GEP Logon ID:  0x16A9DED2CTarget Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27952994 Account Name:  Kajal.Bhanushali Account Domain:  GEPAdditional Information: Privileges  -"
+  },
+  {
+    "Event ID": 4724,
+    "Message": "An attempt was made to reset an account's password.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27938107 Account Name:  LeenaAIBotT2 Account Domain:  GEP Logon ID:  0x1A3EC32B0Target Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27966867 Account Name:  saloni.pawanarkar Account Domain:  GEP"
+  },
+  {
+    "Event ID": 4725,
+    "Message": "A user account was disabled.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944644 Account Name:  prathameshut2 Account Domain:  GEP Logon ID:  0x165B8E7F7Target Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27926500 Account Name:  Prince.Tiwari Account Domain:  GEP"
+  },
+  {
+    "Event ID": 4726,
+    "Message": "A user account was deleted.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944646 Account Name:  rahuljt2 Account Domain:  GEP Logon ID:  0x15A73BE06Target Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27966664 Account Name:  Vijaya.Bhanavath Account Domain:  GEPAdditional Information: Privileges -"
+  },
+  {
+    "Event ID": 4728,
+    "Message": "A member was added to a security-enabled global group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27954412 Account Name:  Abhishek.ST2 Account Domain:  GEP Logon ID:  0x1A3FB86B2Member: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27964692 Account Name:  CN=CBT-DR9T244,CN=Computers,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27729472 Group Name:  Bitlocker Encryption Intune Policy Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4729,
+    "Message": "A member was removed from a security-enabled global group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944652 Account Name:  sagargt2 Account Domain:  GEP Logon ID:  0x1698826E4Member: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27720155 Account Name:  CN=Kishan Mund,OU=USR,OU=IND,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27955714 Group Name:  Leo-ADO-RfxNg Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4735,
+    "Message": "A security-enabled local group was changed.Subject: Security ID:  S-1-5-18 Account Name:  USAZSPDDFIR-N$ Account Domain:  GEP Logon ID:  0x3E7Group: Security ID:  S-1-5-32-544 Group Name:  Administrators Group Domain:  BuiltinChanged Attributes: SAM Account Name: - SID History:  -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4737,
+    "Message": "A security-enabled global group was changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27954412 Account Name:  Abhishek.ST2 Account Domain:  GEP Logon ID:  0x1A3FB86B2Group: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27729472 Group Name:  Bitlocker Encryption Intune Policy Group Domain:  GEPChanged Attributes: SAM Account Name: - SID History:  -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4738,
+    "Message": "A user account was changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27948134 Account Name:  AZINDCITAPP01$ Account Domain:  GEP Logon ID:  0x16A9DED2CTarget Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27952994 Account Name:  Kajal.Bhanushali Account Domain:  GEPChanged Attributes: SAM Account Name: - Display Name:  - User Principal Name: - Home Directory:  - Home Drive:  - Script Path:  - Profile Path:  - User Workstations: - Password Last Set: 3/19/2025 9:08:12 AM Account Expires:  - Primary Group ID: - AllowedToDelegateTo: - Old UAC Value:  - New UAC Value:  - User Account Control: - User Parameters: - SID History:  - Logon Hours:  -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4740,
+    "Message": "A user account was locked out.Subject: Security ID:  S-1-5-18 Account Name:  INDAZRSDC04$ Account Domain:  GEP Logon ID:  0x3E7Account That Was Locked Out: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27731093 Account Name:  Pankaj.MurudkarAdditional Information: Caller Computer Name: MUM02L11688"
+  },
+  {
+    "Event ID": 4741,
+    "Message": "A computer account was created.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27953816 Account Name:  Mukunthrt2 Account Domain:  GEP Logon ID:  0x16942E3A4New Computer Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27964692 Account Name:  CBT-DR9T244$ Account Domain:  GEPAttributes: SAM Account Name: CBT-DR9T244$ Display Name:  - User Principal Name: - Home Directory:  - Home Drive:  - Script Path:  - Profile Path:  - User Workstations: - Password Last Set: 3/19/2025 7:47:32 AM Account Expires:  <never> Primary Group ID: 515 AllowedToDelegateTo: - Old UAC Value:  0x0 New UAC Value:  0x80 User Account Control:   'Workstation Trust Account' - Enabled User Parameters: - SID History:  - Logon Hours:  <value not set> DNS Host Name:  CBT-DR9T244.gep.com Service Principal Names:   HOST/CBT-DR9T244.gep.com  RestrictedKrbHost/CBT-DR9T244.gep.com  HOST/CBT-DR9T244  RestrictedKrbHost/CBT-DR9T244Additional Information: Privileges  -"
+  },
+  {
+    "Event ID": 4742,
+    "Message": "A computer account was changed.Subject: Security ID:  S-1-5-7 Account Name:  ANONYMOUS LOGON Account Domain:  NT AUTHORITY Logon ID:  0x3E6Computer Account That Was Changed: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27921877 Account Name:  MUM02L10065$ Account Domain:  GEPChanged Attributes: SAM Account Name: - Display Name:  - User Principal Name: - Home Directory:  - Home Drive:  - Script Path:  - Profile Path:  - User Workstations: - Password Last Set: 3/19/2025 9:24:28 AM Account Expires:  - Primary Group ID: - AllowedToDelegateTo: - Old UAC Value:  - New UAC Value:  - User Account Control: - User Parameters: - SID History:  - Logon Hours:  - DNS Host Name:  - Service Principal Names: -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4743,
+    "Message": "A computer account was deleted.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944626 Account Name:  aniketbt2 Account Domain:  GEP Logon ID:  0x1A3F8690CTarget Computer: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27883182 Account Name:  MUM02L8951$ Account Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4750,
+    "Message": "A security-disabled global group was changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944637 Account Name:  krishmapt2 Account Domain:  GEP Logon ID:  0x1A37B0CBFGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27733089 Group Name:  SignifyPTP Group Domain:  GEPChanged Attributes: SAM Account Name: - SID History:  -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4751,
+    "Message": "A member was added to a security-disabled global group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944637 Account Name:  krishmapt2 Account Domain:  GEP Logon ID:  0x1A37B0CBFMember: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27926763 Account Name:  CN=Sankalp Panmand,OU=USR,OU=IND,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27733089 Group Name:  SignifyPTP Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4752,
+    "Message": "A member was removed from a security-disabled global group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944644 Account Name:  prathameshut2 Account Domain:  GEP Logon ID:  0x165A1586FMember: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27911000 Account Name:  CN=Paramjyot Kaur Suman,OU=USR,OU=IND,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27231571 Group Name:  J&J_GEP_NA Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4755,
+    "Message": "A security-enabled universal group was changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944637 Account Name:  krishmapt2 Account Domain:  GEP Logon ID:  0x1A2BF7993Group: Security ID:  S-1-5-21-932416472-1581942402-1327342795-3043 Group Name:  Gep_IND_consulting Group Domain:  GEPChanged Attributes: SAM Account Name: - SID History:  -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4756,
+    "Message": "A member was added to a security-enabled universal group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944637 Account Name:  krishmapt2 Account Domain:  GEP Logon ID:  0x1A2BF7993Member: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27933513 Account Name:  CN=Naincy Vishwakarma,OU=USR,OU=IND,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-3043 Account Name:  Gep_IND_consulting Account Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4757,
+    "Message": "A member was removed from a security-enabled universal group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944644 Account Name:  prathameshut2 Account Domain:  GEP Logon ID:  0x165B8E7F7Member: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27926500 Account Name:  CN=Prince Tiwari,OU=USR,OU=IND,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27712234 Group Name:  Gep_Ind_Mumbai Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4760,
+    "Message": "A security-disabled universal group was changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944644 Account Name:  prathameshut2 Account Domain:  GEP Logon ID:  0x165B8E7F7Group: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27231025 Group Name:  GEP_IND_KnowledgeSvcs Group Domain:  GEPChanged Attributes: SAM Account Name: - SID History:  -Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4761,
+    "Message": "A member was added to a security-disabled universal group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944643 Account Name:  nitinnt2 Account Domain:  GEP Logon ID:  0x1449BB0B6Member: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27964683 Account Name:  cn=Gustavo Diaz Guevara,OU=USR,OU=LTM,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-5401 Group Name:  GEP_LatAm Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4762,
+    "Message": "A member was removed from a security-disabled universal group.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944644 Account Name:  prathameshut2 Account Domain:  GEP Logon ID:  0x165B8E7F7Member: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27926500 Account Name:  CN=Prince Tiwari,OU=USR,OU=IND,DC=gep,DC=comGroup: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27231025 Group Name:  GEP_IND_KnowledgeSvcs Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4764,
+    "Message": "A group’s type was changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27941113 Account Name:  Sachint0 Account Domain:  GEP Logon ID:  0x7F9B3423Change Type:   Security Disabled Global Group Changed to Security Enabled Universal Group.Group: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27906724 Group Name:  GEP_IND_Coimbatore Group Domain:  GEPAdditional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4767,
+    "Message": "A user account was unlocked.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-28522 Account Name:  MSOL_625991824688 Account Domain:  GEP Logon ID:  0x1184CB67BTarget Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27731093 Account Name:  Pankaj.Murudkar Account Domain:  GEP"
+  },
+  {
+    "Event ID": 4768,
+    "Message": "A Kerberos authentication ticket (TGT) was requested.Account Information: Account Name:  TFSAdmin Supplied Realm Name: GEP User ID:   S-1-5-21-932416472-1581942402-1327342795-12599 MSDS-SupportedEncryptionTypes: 0x27 (DES, RC4, AES-Sk) Available Keys: AES-SHA1, RC4Service Information: Service Name:  krbtgt Service ID:  S-1-5-21-932416472-1581942402-1327342795-502 MSDS-SupportedEncryptionTypes: 0x1F (DES, RC4, AES128-SHA96, AES256-SHA96) Available Keys: AES-SHA1, RC4Domain Controller Information: MSDS-SupportedEncryptionTypes: 0x1F (DES, RC4, AES128-SHA96, AES256-SHA96) Available Keys: AES-SHA1, RC4Network Information: Client Address:  ::ffff:172.20.13.132 Client Port:  51036 Advertized Etypes:   AES256-CTS-HMAC-SHA1-96  AES128-CTS-HMAC-SHA1-96  RC4-HMAC-NT  RC4-HMAC-NT-EXP  RC4-HMAC-OLD-EXP  DES-CBC-MD5Additional Information: Ticket Options:  0x40810010 Result Code:  0x0 Ticket Encryption Type: 0x12 Session Encryption Type: 0x12 Pre-Authentication Type: 2 Pre-Authentication EncryptionType: 0x12Certificate Information: Certificate Issuer Name:   Certificate Serial Number:  Certificate Thumbprint:  Ticket information Response ticket hash:  n/aCertificate information is only provided if a certificate was used for pre-authentication.Pre-authentication types, ticket options, encryption types and result codes are defined in RFC 4120."
+  },
+  {
+    "Event ID": 4769,
+    "Message": "A Kerberos service ticket was requested.Account Information: Account Name:  GEPAZPRODEUDRUP$@GEP.COM Account Domain:  GEP.COM Logon GUID:  {d935cc0a-10f3-3973-6544-ec7dcf2af5fd} MSDS-SupportedEncryptionTypes: N/A Available Keys: N/AService Information: Service Name:  krbtgt Service ID:  S-1-5-21-932416472-1581942402-1327342795-502 MSDS-SupportedEncryptionTypes: 0x1F (DES, RC4, AES128-SHA96, AES256-SHA96) Available Keys: AES-SHA1, RC4Domain Controller Information: MSDS-SupportedEncryptionTypes: 0x1F (DES, RC4, AES128-SHA96, AES256-SHA96) Available Keys: AES-SHA1, RC4Network Information: Client Address:  ::ffff:172.26.144.12 Client Port:  64203 Advertized Etypes:   AES256-CTS-HMAC-SHA1-96Additional Information: Ticket Options:  0x60810010 Ticket Encryption Type: 0x12 Session Encryption Type: 0x12 Failure Code:  0x0 Transited Services: -Ticket information Request ticket hash:  N/A Response ticket hash:  N/AThis event is generated every time access is requested to a resource such as a computer or a Windows service.  The service name indicates the resource to which access was requested.This event can be correlated with Windows logon events by comparing the Logon GUID fields in each event.  The logon event occurs on the machine that was accessed, which is often a different machine than the domain controller which issued the service ticket.Pre-authentication types, ticket options, encryption types and result codes are defined in RFC 4120."
+  },
+  {
+    "Event ID": 4771,
+    "Message": "Kerberos pre-authentication failed.Account Information: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27937749 Account Name:  Joao.MateusService Information: Service Name:  krbtgt/GEPNetwork Information: Client Address:  ::ffff:172.26.52.9 Client Port:  52241Additional Information: Ticket Options:  0x40810010 Failure Code:  0x18 Pre-Authentication Type: 2Certificate Information: Certificate Issuer Name:   Certificate Serial Number:   Certificate Thumbprint:  Certificate information is only provided if a certificate was used for pre-authentication.Pre-authentication types, ticket options and failure codes are defined in RFC 4120.If the ticket was malformed or damaged during transit and could not be decrypted, then many fields in this event might not be present."
+  },
+  {
+    "Event ID": 4776,
+    "Message": "The computer attempted to validate the credentials for an account.\n\nAuthentication Package:\tMICROSOFT_AUTHENTICATION_PACKAGE_V1_0\nLogon Account:\t$\nSource Workstation:\tUSEAZInfoSecReport\nError Code:\t0xC0000064"
+  },
+  {
+    "Event ID": 4778,
+    "Message": "A session was reconnected to a Window Station.Subject: Account Name:  Sivakumar.Reddyt1 Account Domain:  GEP Logon ID:  0xD8D1303Session: Session Name:  RDP-Tcp#108Additional Information: Client Name:  HYD-6G9ZNW3 Client Address:  172.28.72.5This event is generated when a user reconnects to an existing Terminal Services session, or when a user switches to an existing desktop using Fast User Switching."
+  },
+  {
+    "Event ID": 4779,
+    "Message": "A session was disconnected from a Window Station.Subject: Account Name:  laxman.vemunurit1 Account Domain:  GEP Logon ID:  0x550BD1A5Session: Session Name:  RDP-Tcp#92Additional Information: Client Name:  HYD-JDVP2N3 Client Address:  172.28.72.5This event is generated when a user disconnects from an existing Terminal Services session, or when a user switches away from an existing desktop using Fast User Switching."
+  },
+  {
+    "Event ID": 4781,
+    "Message": "The name of an account was changed:Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944641 Account Name:  miriam.reiserovat2 Account Domain:  GEP Logon ID:  0x112529756Target Account: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27925127 Account Domain:  GEP Old Account Name: CLK-9SX4LR3$ New Account Name: CLK-94PSCW3$Additional Information: Privileges:  -"
+  },
+  {
+    "Event ID": 4797,
+    "Message": "An attempt was made to query the existence of a blank password for an account.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27951723 Account Name:  thirupathi.reddyt1 Account Domain:  GEP Logon ID:  0x146ED527Additional Information: Caller Workstation: USSPDDEVDB04 Target Account Name: WDAGUtilityAccount Target Account Domain: USSpdDevDB04"
+  },
+  {
+    "Event ID": 4798,
+    "Message": "A user's local group membership was enumerated.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSPDFTP04$ Account Domain:  WORKGROUP Logon ID:  0x3E7User: Security ID:  S-1-5-21-580355598-3368204733-2967366707-1002 Account Name:  nessesscan Account Domain:  USEAZSPDFTP04Process Information: Process ID:  0x15ec Process Name:  C:\\Windows\\System32\\wbem\\WmiPrvSE.exe"
+  },
+  {
+    "Event ID": 4799,
+    "Message": "A security-enabled local group membership was enumerated.Subject: Security ID:  S-1-5-18 Account Name:  AZRUAEWSFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Group: Security ID:  S-1-5-32-551 Group Name:  Backup Operators Group Domain:  BuiltinProcess Information: Process ID:  0x104c Process Name:  C:\\Windows\\System32\\svchost.exe"
+  },
+  {
+    "Event ID": 4800,
+    "Message": "The workstation was locked.\n\nSubject:\n\tSecurity ID:\t\tS-1-5-21-3772321609-3024441946-537470876-500\n\tAccount Name:\t\tprodsmart\n\tAccount Domain:\t\tUSEAZSMARTFTP01\n\tLogon ID:\t\t0x19F667AF\n\tSession ID:\t2"
+  },
+  {
+    "Event ID": 4801,
+    "Message": "The workstation was unlocked.\n\nSubject:\n\tSecurity ID:\t\tS-1-5-21-932416472-1581942402-1327342795-9164\n\tAccount Name:\t\tsrinivas.nunna\n\tAccount Domain:\t\tGEP\n\tLogon ID:\t\t0x103CC5\n\tSession ID:\t2"
+  },
+  {
+    "Event ID": 4816,
+    "Message": "RPC detected an integrity violation while decrypting an incoming message.\n\nPeer Name:\t172.20.13.208\nProtocol Sequence:\tncacn_ip_tcp\nSecurity Error:\t2148074255"
+  },
+  {
+    "Event ID": 4826,
+    "Message": "Boot Configuration Data loaded.Subject: Security ID:  S-1-5-18 Account Name:  - Account Domain:  - Logon ID:  0x3E7General Settings: Load Options:  - Advanced Options:  No Configuration Access Policy: Default System Event Logging: No Kernel Debugging: No VSM Launch Type: OffSignature Settings: Test Signing:  No Flight Signing:  No Disable Integrity Checks: NoHyperVisor Settings: HyperVisor Load Options: - HyperVisor Launch Type: Off HyperVisor Debugging: No"
+  },
+  {
+    "Event ID": 4902,
+    "Message": "The Per-user audit policy table was created.\n\nNumber of Elements:\t0\nPolicy ID:\t0x74F2"
+  },
+  {
+    "Event ID": 4904,
+    "Message": "An attempt was made to register a security event source.Subject : Security ID:  S-1-5-18 Account Name:  USEAZUATFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Process: Process ID: 0x2ed4 Process Name: C:\\Windows\\System32\\VSSVC.exeEvent Source: Source Name: VSSAudit Event Source ID: 0x6055E90E"
+  },
+  {
+    "Event ID": 4905,
+    "Message": "An attempt was made to unregister a security event source.Subject Security ID:  S-1-5-18 Account Name:  USEAZUATFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Process: Process ID: 0x2ed4 Process Name: C:\\Windows\\System32\\VSSVC.exeEvent Source: Source Name: VSSAudit Event Source ID: 0x6055E90E"
+  },
+  {
+    "Event ID": 4907,
+    "Message": "Auditing settings on object were changed.Subject: Security ID:  S-1-5-18 Account Name:  USEAZSMARTFTP01$ Account Domain:  WORKGROUP Logon ID:  0x3E7Object: Object Server: Security Object Type: File Object Name: C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\AppvClient\\Microsoft.AppV.AppvClientComConsumer.dll Handle ID: 0x100Process Information: Process ID: 0x21e4 Process Name: C:\\Windows\\System32\\poqexec.exeAuditing Settings: Original Security Descriptor: S:AINO_ACCESS_CONTROL New Security Descriptor:  S:ARAI(AU;SAFA;DCLCRPCRSDWDWO;;;WD)"
+  },
+  {
+    "Event ID": 4911,
+    "Message": "Resource attributes of the object were changed.Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27951724 Account Name:  satish.sasettyt1 Account Domain:  GEP Logon ID:  0x721AFFAAObject: Object Server: Security Object Type: File Object Name: F:\\Avinash\\sqlserver2017-kb5042215-x64_7e226891f58ad9d37abe9d02d97f93ffda0f459c.exe Handle ID: 0x1d1cProcess Information: Process ID: 0x26f54 Process Name: C:\\Windows\\explorer.exeResource Attributes: Original Security Descriptor:  New Security Descriptor:  S:ARAI(RA;;;;;WD;(\"IMAGELOAD\",TU,0x0,1))"
+  },
+  {
+    "Event ID": 4932,
+    "Message": "Synchronization of a replica of an Active Directory naming context has begun.Destination DRA: CN=NTDS Settings,CN=INDAZRSDC04,CN=Servers,CN=AZIND,CN=Sites,CN=Configuration,DC=gep,DC=comSource DRA: CN=NTDS Settings,CN=INDAZRSDC03,CN=Servers,CN=AZIND,CN=Sites,CN=Configuration,DC=gep,DC=comNaming Context: DC=gep,DC=comOptions:  19Session ID: 138880Start USN: 31232796"
+  },
+  {
+    "Event ID": 4933,
+    "Message": "Synchronization of a replica of an Active Directory naming context has ended.Destination DRA: CN=NTDS Settings,CN=INDAZRSDC04,CN=Servers,CN=AZIND,CN=Sites,CN=Configuration,DC=gep,DC=comSource DRA: CN=NTDS Settings,CN=INDAZRSDC03,CN=Servers,CN=AZIND,CN=Sites,CN=Configuration,DC=gep,DC=comNaming Context: DC=gep,DC=comOptions:  19Session ID: 138880End USN: 31232815Status Code: 0"
+  },
+  {
+    "Event ID": 4944,
+    "Message": "The following policy was active when the Windows Firewall started.Group Policy Applied: NoProfile Used: PublicOperational mode: OnAllow Remote Administration: DisabledAllow Unicast Responses to Multicast/Broadcast Traffic: EnabledSecurity Logging: Log Dropped Packets: Disabled Log Successful Connections: Disabled"
+  },
+  {
+    "Event ID": 4945,
+    "Message": "A rule was listed when the Windows Firewall started.\n\t\nProfile used:\tPublic\n\nRule:\n\tRule ID:\tCoreNet-DHCP-In\n\tRule Name:\tCore Networking - Dynamic Host Configuration Protocol (DHCP-In)"
+  },
+  {
+    "Event ID": 4946,
+    "Message": "A change was made to the Windows Firewall exception list. A rule was added.\n\t\nProfile Changed:\tAll\n\nAdded Rule:\n\tRule ID:\t09328e9c-41ad-4ce4-9d4f-7b778c4df3b3\n\tRule Name:\tInbound service restriction rule for WinDefend"
+  },
+  {
+    "Event ID": 4947,
+    "Message": "A change was made to the Windows Firewall exception list. A rule was modified.\n\t\nProfile Changed:\tAll\n\nModified Rule:\n\tRule ID:\t{0372CDC9-F040-4137-A5D9-1A53B49C5696}\n\tRule Name:\t489a3258-99f6-4b26-88bb-cdde5f17a5cf"
+  },
+  {
+    "Event ID": 4948,
+    "Message": "A change was made to the Windows Firewall exception list. A rule was deleted.\n\t\nProfile Changed:\tAll\n\nDeleted Rule:\n\tRule ID:\t002e324e-2c0e-4572-8730-c7653d0bd868\n\tRule Name:\tOutbound service restriction rule for WinDefend"
+  },
+  {
+    "Event ID": 4953,
+    "Message": "Windows Firewall ignored a rule because it could not be parsed.\n\t\nProfile:\tAll\n\nReason for Rejection:\tAn error occurred.\n\nRule:\n\tID:\tMDEServer-1\n\tName:\t-"
+  },
+  {
+    "Event ID": 4956,
+    "Message": "Windows Firewall changed the active profile.\n\nNew Active Profile:\tDomain"
+  },
+  {
+    "Event ID": 4957,
+    "Message": "Windows Firewall did not apply the following rule:\n\nRule Information:\n\tID:\tCoreNet-ICMP6-LD-In\n\tName:\tCore Networking - Multicast Listener Done (ICMPv6-In)\n\nError Information:\n\tReason:\tRemote Addresses resolved to an empty set."
+  },
+  {
+    "Event ID": 4985,
+    "Message": "The state of a transaction has changed.Subject: Security ID:  S-1-5-18 Account Name:  USEAZUATFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Transaction Information: RM Transaction ID: {f47146cb-0418-11f0-9bae-000d3a569fe0} New State:  52 Resource Manager: {147924dc-4c3b-11ee-be69-000d3aa4ac00}Process Information: Process ID:  0x26a0 Process Name:  C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.7000_none_570cdffd9901f522\\TiWorker.exe"
+  },
+  {
+    "Event ID": 5024,
+    "Message": "The Windows Firewall service started successfully."
+  },
+  {
+    "Event ID": 5033,
+    "Message": "The Windows Firewall Driver started successfully."
+  },
+  {
+    "Event ID": 5058,
+    "Message": "Key file operation.Subject: Security ID:  S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415 Account Name:  DefaultAppPool Account Domain:  IIS APPPOOL Logon ID:  0x137ACDProcess Information: Process ID:  7808 Process Creation Time: ?2025?-?03?-?19T10:15:44.341576500ZCryptographic Parameters: Provider Name: Microsoft Software Key Storage Provider Algorithm Name: UNKNOWN Key Name: iisCngConfigurationKey Key Type: Machine key.Key File Operation Information: File Path: C:\\ProgramData\\Microsoft\\Crypto\\Keys\\f0e91f6485ac2d09485e4ec18135601e_e42e5145-166b-4dcf-8731-0e290e38063f Operation: Read persisted key from file. Return Code: 0x0"
+  },
+  {
+    "Event ID": 5059,
+    "Message": "Key migration operation.Subject: Security ID:  S-1-5-18 Account Name:  AZRUAEWSFTP$ Account Domain:  WORKGROUP Logon ID:  0x3E7Process Information: Process ID:  2844 Process Creation Time: ?2025?-?03?-?12T03:55:36.264572600ZCryptographic Parameters: Provider Name: Microsoft Software Key Storage Provider Algorithm Name: RSA Key Name: bd7dc23e-4fb8-41c9-8302-6fb09fb717bb Key Type: Machine key.Additional Information: Operation: Export of persistent cryptographic key. Return Code: 0x0"
+  },
+  {
+    "Event ID": 5061,
+    "Message": "Cryptographic operation.Subject: Security ID:  S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415 Account Name:  DefaultAppPool Account Domain:  IIS APPPOOL Logon ID:  0x137ACDCryptographic Parameters: Provider Name: Microsoft Software Key Storage Provider Algorithm Name: SP800_108_CTR_HMAC Key Name: iisCngConfigurationKey Key Type: Machine key.Cryptographic Operation: Operation: Open Key. Return Code: 0x0"
+  },
+  {
+    "Event ID": 5074,
+    "Message": "A worker process with process id of '10232' serving application pool 'WSFTPSVR_WTM' has requested a recycle because the worker process reached its allowed processing time limit."
+  },
+  {
+    "Event ID": 5136,
+    "Message": "A directory service object was modified. Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27934124 Account Name:  HYD-5BLLNW3$ Account Domain:  GEP Logon ID:  0x1A63648B7Directory Service: Name: gep.com Type: Active Directory Domain Services Object: DN: CN=HYD-5BLLNW3,OU=WKS,OU=IND,DC=gep,DC=com GUID: {e287557b-2b54-46a3-ba51-cff10b2decd1} Class: computer Attribute: LDAP Display Name: servicePrincipalName Syntax (OID): 2.5.5.12 Value: TERMSRV/HYD-5BLLNW3 Operation: Type: Value Added Correlation ID: {ff4d69ad-e233-45c0-bbf8-d3544d1719ee} Application Correlation ID: -"
+  },
+  {
+    "Event ID": 5137,
+    "Message": "A directory service object was created. Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27943269 Account Name:  CLJ-6ZWNGY3$ Account Domain:  GEP Logon ID:  0xE062A99D Directory Service: Name: gep.com Type: Active Directory Domain Services Object: DN: CN=2025-03-19T12:08:59\\+02:00{9A441A13-C190-4127-90C3-D158E042EBB9},CN=CLJ-6ZWNGY3,OU=WKS,OU=EUR,DC=gep,DC=com GUID: {c4b64a85-f8bb-40c3-a0c3-3e127267f27f} Class: msFVE-RecoveryInformation Operation: Correlation ID: {7cb74372-804b-454c-bf40-3d9b4f5da890} Application Correlation ID: -"
+  },
+  {
+    "Event ID": 5139,
+    "Message": "A directory service object was moved. Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944648 Account Name:  ramakrishnayt2 Account Domain:  GEP Logon ID:  0x1A51C792B Directory Service: Name:  gep.com Type:  Active Directory Domain Services Object: Old DN:  CN=HYD-1K2FSX3,CN=Computers,DC=gep,DC=com New DN: CN=HYD-1K2FSX3,OU=WKS,OU=IND,DC=gep,DC=com GUID:  {fb39d4cb-3f37-4bca-ae51-b1c361469396} Class:  computer Operation: Correlation ID:   {4329503b-a019-4a94-887e-927118e0809f} Application Correlation ID: -"
+  },
+  {
+    "Event ID": 5140,
+    "Message": "A network share object was accessed. Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27958595 Account Name:  MUM02L12288$ Account Domain:  GEP Logon ID:  0x1691FCE93Network Information:  Object Type:  File Source Address:  172.16.30.143 Source Port:  58368 Share Information: Share Name:  \\\\*\\IPC$ Share Path:  Access Request Information: Access Mask:  0x1 Accesses:  ReadData (or ListDirectory)"
+  },
+  {
+    "Event ID": 5141,
+    "Message": "A directory service object was deleted. Subject: Security ID:  S-1-5-21-932416472-1581942402-1327342795-27944626 Account Name:  aniketbt2 Account Domain:  GEP Logon ID:  0x1A3F8690C Directory Service: Name: gep.com Type: Active Directory Domain Services Object: DN: CN=MUM02L8951,OU=WKS,OU=IND,DC=gep,DC=com GUID: {e1bfad76-ccb8-4f18-8d74-c6b2cd781438} Class: computer Operation: Tree Delete: No Correlation ID: {029cfc7f-412c-4ff1-a0f2-ec3928382513} Application Correlation ID: -"
+  },
+  {
+    "Event ID": 5145,
+    "Message": "A network share object was checked to see whether client can be granted desired access. Subject: Security ID:  S-1-5-18 Account Name:  USE2AZRSDC03$ Account Domain:  GEP Logon ID:  0xADC331C4Network Information:  Object Type:  File Source Address:  ::1 Source Port:  49180 Share Information: Share Name:  \\\\*\\SYSVOL Share Path:  \\??\\F:\\SYSVOL\\sysvol Relative Target Name: gep.com\\Policies\\{B653B210-D2AC-48A6-82F5-7AC223816D36}\\Machine\\Preferences\\Registry\\Registry.xmlAccess Request Information: Access Mask:  0x120089 Accesses:  READ_CONTROL    SYNCHRONIZE    ReadData (or ListDirectory)    ReadEA    ReadAttributes    Access Check Results: READ_CONTROL: Granted by Ownership    SYNCHRONIZE: Granted by D:(A;;0x1200a9;;;WD)    ReadData (or ListDirectory): Granted by D:(A;;0x1200a9;;;WD)    ReadEA: Granted by D:(A;;0x1200a9;;;WD)    ReadAttributes: Granted by D:(A;;0x1200a9;;;WD)"
+  },
+  {
+    "Event ID": 5152,
+    "Message": "The Windows Filtering Platform has blocked a packet.Application Information: Process ID:  0 Application Name: -Network Information: Direction:  Inbound Source Address:  172.29.13.241 Source Port:  65037 Destination Address: 172.28.40.13 Destination Port:  389 Protocol:  6Filter Information: Filter Run-Time ID: 2046749 Layer Name:  Transport Layer Run-Time ID: 13"
+  },
+  {
+    "Event ID": 5156,
+    "Message": "The Windows Filtering Platform has permitted a connection.Application Information: Process ID:  1440 Application Name: \\device\\harddiskvolume4\\windows\\system32\\svchost.exeNetwork Information: Direction:  Outbound Source Address:  ::1 Source Port:  56471 Destination Address: ::1 Destination Port:  389 Protocol:  6Filter Information: Filter Run-Time ID: 65853 Layer Name:  Connect Layer Run-Time ID: 50"
+  },
+  {
+    "Event ID": 5158,
+    "Message": "The Windows Filtering Platform has permitted a bind to a local port.Application Information: Process ID:  1440 Application Name: \\device\\harddiskvolume4\\windows\\system32\\svchost.exeNetwork Information: Source Address:  :: Source Port:  56471 Protocol:  6Filter Information: Filter Run-Time ID: 0 Layer Name:  Resource Assignment Layer Run-Time ID: 38"
+  },
+  {
+    "Event ID": 5186,
+    "Message": "A worker process with process id of '10000' serving application pool 'WSFTPSVR_WTM' was shutdown due to inactivity.  Application Pool timeout configuration was set to 20 minutes.  A new worker process will be started when needed."
+  },
+  {
+    "Event ID": 5211,
+    "Message": "The Windows Process Activation Service (WAS) started with 'Classic' mode using 'ConfigurationSystem'"
+  },
+  {
+    "Event ID": 5379,
+    "Message": "Credential Manager credentials were read.Subject: Security ID:  S-1-5-18 Account Name:  INDAZRSDC03$ Account Domain:  GEP Logon ID:  0x3E7 Read Operation:  Enumerate CredentialsThis event occurs when a user performs a read operation on stored credentials in Credential Manager."
+  },
+  {
+    "Event ID": 5381,
+    "Message": "Vault credentials were read.\n\nSubject:\n\tSecurity ID:\t\tS-1-5-21-932416472-1581942402-1327342795-27941113\n\tAccount Name:\t\tSachint0\n\tAccount Domain:\t\tGEP\n\tLogon ID:\t\t0xCE4A413E\n\nThis event occurs when a user enumerates stored vault credentials."
+  },
+  {
+    "Event ID": 5382,
+    "Message": "Vault credentials were read.\n\nSubject:\n\tSecurity ID:\t\tS-1-5-21-932416472-1581942402-1327342795-27941113\n\tAccount Name:\t\tSachint0\n\tAccount Domain:\t\tGEP\n\tLogon ID:\t\t0xCE4A413E\n\nThis event occurs when a user reads a stored vault credential."
+  },
+  {
+    "Event ID": 5478,
+    "Message": "The IPsec Policy Agent service was started."
+  },
+  {
+    "Event ID": 5615,
+    "Message": "Windows Management Instrumentation Service started sucessfully"
+  },
+  {
+    "Event ID": 5617,
+    "Message": "Windows Management Instrumentation Service subsystems initialized successfully"
+  },
+  {
+    "Event ID": 6000,
+    "Message": "The winlogon notification subscriber <WSearch> was unavailable to handle a notification event."
+  },
+  {
+    "Event ID": 6003,
+    "Message": "The winlogon notification subscriber <TrustedInstaller> was unavailable to handle a critical notification event."
+  },
+  {
+    "Event ID": 6005,
+    "Message": "The Event log service was started."
+  },
+  {
+    "Event ID": 6006,
+    "Message": "The Event log service was stopped."
+  },
+  {
+    "Event ID": 6009,
+    "Message": "Microsoft (R) Windows (R) 10.00. 17763  Multiprocessor Free."
+  },
+  {
+    "Event ID": 6013,
+    "Message": "The system uptime is 1017261 seconds."
+  },
+  {
+    "Event ID": 6416,
+    "Message": "A new external device was recognized by the system.Subject: Security ID:  S-1-5-18 Account Name:  CLKWDCP01$ Account Domain:  GEP Logon ID:  0x3E7Device ID: SWD\\WPDBUSENUM\\{eeda6161-6404-11ee-9d08-806e6f6e6963}#0000000001000000Device Name: ADLOGClass ID:  {eec5ad98-8080-425f-922a-dabf3de3f69a}Class Name: WPDVendor IDs: -Compatible IDs:   wpdbusenum\\fs  SWD\\Generic    Location Information: -"
+  },
+  {
+    "Event ID": 7000,
+    "Message": "The Group Policy Client service failed to start due to the following error: \nThe service did not respond to the start or control request in a timely fashion."
+  },
+  {
+    "Event ID": 7001,
+    "Message": "User Logon Notification for Customer Experience Improvement Program"
+  },
+  {
+    "Event ID": 7002,
+    "Message": "User Logoff Notification for Customer Experience Improvement Program"
+  },
+  {
+    "Event ID": 7009,
+    "Message": "A timeout was reached (30000 milliseconds) while waiting for the Group Policy Client service to connect."
+  },
+  {
+    "Event ID": 7011,
+    "Message": "A timeout (30000 milliseconds) was reached while waiting for a transaction response from the filebeat service."
+  },
+  {
+    "Event ID": 7023,
+    "Message": "The Update Orchestrator Service service terminated with the following error: \nThis operation returned because the timeout period expired."
+  },
+  {
+    "Event ID": 7026,
+    "Message": "The following boot-start or system-start driver(s) did not load: \ndam"
+  },
+  {
+    "Event ID": 7031,
+    "Message": "The RdAgent service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 0 milliseconds: Restart the service."
+  },
+  {
+    "Event ID": 7034,
+    "Message": "The filebeat service terminated unexpectedly.  It has done this 1 time(s)."
+  },
+  {
+    "Event ID": 7036,
+    "Message": "The AVCTP service service entered the running state."
+  },
+  {
+    "Event ID": 7040,
+    "Message": "The start type of the BITS service was changed from demand start to auto start."
+  },
+  {
+    "Event ID": 7043,
+    "Message": "The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+  },
+  {
+    "Event ID": 7045,
+    "Message": "A service was installed in the system.\n\nService Name:  KslD\nService File Name:  system32\\drivers\\wd\\KslD.sys\nService Type:  kernel mode driver\nService Start Type:  demand start\nService Account:"
+  },
+  {
+    "Event ID": 7046,
+    "Message": "The following service has repeatedly stopped responding to service control requests: filebeatContact the service vendor or the system administrator about whether to disable this service until the problem is identified.You may have to restart the computer in safe mode before you can disable the service."
+  },
+  {
+    "Event ID": 8197,
+    "Message": "SLUI.exe was launched with the following command-line parameters:\nRuleId=379cccfb-d4e0-48fe-b0f2-0136097be147;Action=CleanupState;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=34e1ae55-27f8-4950-8877-7a03be5fb181;Trigger=TimerEvent"
+  },
+  {
+    "Event ID": 8198,
+    "Message": "License Activation (slui.exe) failed with the following error code:hr=0x8007139FCommand-line arguments:RuleId=eeba1977-569e-4571-b639-7623d8bfecc0;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=34e1ae55-27f8-4950-8877-7a03be5fb181;NotificationInterval=1440;Trigger=TimerEvent"
+  },
+  {
+    "Event ID": 8224,
+    "Message": "The VSS service is shutting down due to idle timeout."
+  },
+  {
+    "Event ID": 8229,
+    "Message": "A VSS writer has rejected an event with error 0x800423f2, The writer's timeout expired between the Freeze and Thaw events.. Changes that the writer made to the writer components while handling the event will not be available to the requester. Check the event log for related events from the application hosting the VSS writer. Operation:   Thaw EventContext:   Execution Context: Writer   Writer Class Id: {afbab4a2-367d-4d15-a586-71dbb18f8485}   Writer Name: Registry Writer   Writer Instance ID: {bf6f9994-266d-4d2e-a530-1cf49163f96d}   Command Line: C:\\Windows\\system32\\vssvc.exe   Process ID: 7208"
+  },
+  {
+    "Event ID": 8230,
+    "Message": "The rules engine successfully re-evaluated the schedule.Kernel policies:Security-SPP-Action-StateData (REG_SZ) =AppId=55c92734-d682-4d71-983e-d6ec3f16059f;GraceEndDate=2025/09/12:05:55:38;LastConsumptionReason=0x00000000;LastNotificationId=Cleanup;LicenseState=SL_LICENSING_STATUS_LICENSED;PartialProductKey=63DFG;ProductKeyType=Volume:GVLK;SkuId=34e1ae55-27f8-4950-8877-7a03be5fb181;ruleId=379cccfb-d4e0-48fe-b0f2-0136097be147;uxDifferentiator=ENVIRONMENT;volumeActivationOrder=normal"
+  },
+  {
+    "Event ID": 9027,
+    "Message": "The Desktop Window Manager has registered the session port."
+  },
+  {
+    "Event ID": 10000,
+    "Message": "Starting session 0 - ?2025?-?02?-?27T05:44:20.412090500Z."
+  },
+  {
+    "Event ID": 10001,
+    "Message": "Ending session 0 started ?2025?-?02?-?27T05:44:20.412090500Z."
+  },
+  {
+    "Event ID": 10016,
+    "Message": "The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID {F87B28F1-DA9A-4F35-8EC0-800EFCF26B83} and APPID {0868DC9B-D9A2-4F64-9362-133CEA201299} to the user NT AUTHORITY\\NETWORK SERVICE SID (S-1-5-20) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+  },
+  {
+    "Event ID": 10031,
+    "Message": "An unmarshaling policy check was performed when unmarshaling a custom marshaled object and the class {45FB4600-E6E8-4928-B25E-50476FF79425} was rejected"
+  },
+  {
+    "Event ID": 10148,
+    "Message": "The WinRM service is listening for WS-Management requests. \n\n User Action \n Use the following command to see the specific IPs on which WinRM is listening: \n\n winrm enumerate winrm/config/listener"
+  },
+  {
+    "Event ID": 10149,
+    "Message": "The WinRM service is not listening for WS-Management requests. \n\n User Action \n If you did not intentionally stop the service, use the following command to see the WinRM configuration: \n\n winrm enumerate winrm/config/listener"
+  },
+  {
+    "Event ID": 11728,
+    "Message": "Product: Microsoft Azure Site Recovery Mobility Service/Master Target Server -- Configuration completed successfully."
+  },
+  {
+    "Event ID": 12288,
+    "Message": "The client has sent an activation request to the key management service machine.\nInfo:\n0x00000000, 0x00000000, azkms.core.windows.net:1688, 6e456bb1-a472-489e-b68e-ca3993a06708, 2025/02/19 19:53, 1, 1, 247680, 34e1ae55-27f8-4950-8877-7a03be5fb181, 5"
+  },
+  {
+    "Event ID": 12289,
+    "Message": "The client has processed an activation response from the key management service machine.\nInfo:\n0x00000000, 0x00000000, 1, 0, 50, 120, 10080, 2025/02/19 19:53"
+  },
+  {
+    "Event ID": 16384,
+    "Message": "Successfully scheduled Software Protection service for re-start at 2025-02-19T19:52:48Z. Reason: RulesEngine."
+  },
+  {
+    "Event ID": 16394,
+    "Message": "Offline downlevel migration succeeded."
+  },
+  {
+    "Event ID": 16962,
+    "Message": "Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).\nFor more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+  },
+  {
+    "Event ID": 16977,
+    "Message": "The domain is configured with the following minimum password length-related settings.\n\nMinimumPasswordLength: 0\n\nMinimumPasswordLengthAudit: -1\n\nFor more information see https://go.microsoft.com/fwlink/?LinkId=2097191."
+  },
+  {
+    "Event ID": 16983,
+    "Message": "The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.\n\nFor more information please see https://go.microsoft.com/fwlink/?linkid=2150956."
+  },
+  {
+    "Event ID": 36871,
+    "Message": "A fatal error occurred while creating a TLS client credential. The internal error state is 10013."
+  },
+  {
+    "Event ID": 36874,
+    "Message": "An TLS 1.2 connection request was received from a remote client application, but none of the cipher suites supported by the client application are supported by the server. The TLS connection request has failed."
+  },
+  {
+    "Event ID": 50036,
+    "Message": "DHCPv4 client service is started"
+  },
+  {
+    "Event ID": 50037,
+    "Message": "DHCPv4 client service is stopped. ShutDown Flag value is 1"
+  },
+  {
+    "Event ID": 50103,
+    "Message": "DHCPv4 client registered for shutdown notification"
+  },
+  {
+    "Event ID": 50104,
+    "Message": "DHCPv4 client received shutdown notification"
+  },
+  {
+    "Event ID": 50105,
+    "Message": "DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT"
+  },
+  {
+    "Event ID": 50106,
+    "Message": "DHCPv4 is waiting on DHCPv6 service to stop"
+  },
+  {
+    "Event ID": 51046,
+    "Message": "DHCPv6 client service is started"
+  },
+  {
+    "Event ID": 51047,
+    "Message": "DHCPv6 client service is stopped. ShutDown Flag value is 1"
+  },
+  {
+    "Event ID": 51057,
+    "Message": "DHCPv6 client service stop is almost done.DHCP Context Ref count is 1"
+  }
+]

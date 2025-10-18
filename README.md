@@ -70,59 +70,59 @@ The application implements a Retrieval-Augmented Generation architecture with th
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        INPUT LAYER                               │
+│                        INPUT LAYER                              │
 │  User uploads CSV with raw security log messages                │
 └────────────────────────────┬────────────────────────────────────┘
                              │
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    EMBEDDING LAYER                               │
-│  ┌──────────────────────────────────────────────────────────┐  │
-│  │  Sentence-Transformers Model                             │  │
-│  │  (all-MiniLM-L6-v2)                                      │  │
-│  │  Converts text to 384-dimensional vectors               │  │
-│  └──────────────────────────────────────────────────────────┘  │
+│                    EMBEDDING LAYER                              │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │  Sentence-Transformers Model                             │   │
+│  │  (all-MiniLM-L6-v2)                                      │   │
+│  │  Converts text to 384-dimensional vectors                │   │
+│  └──────────────────────────────────────────────────────────┘   │
 └────────────────────────────┬────────────────────────────────────┘
                              │
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    RETRIEVAL LAYER                               │
-│  ┌──────────────────────────────────────────────────────────┐  │
-│  │  FAISS Vector Database                                   │  │
-│  │  • Stores knowledge base embeddings                      │  │
-│  │  • Performs similarity search                            │  │
-│  │  • Returns top-k relevant contexts                       │  │
-│  └──────────────────────────────────────────────────────────┘  │
+│                    RETRIEVAL LAYER                              │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │  FAISS Vector Database                                   │   │
+│  │  • Stores knowledge base embeddings                      │   │
+│  │  • Performs similarity search                            │   │
+│  │  • Returns top-k relevant contexts                       │   │
+│  └──────────────────────────────────────────────────────────┘   │
 └────────────────────────────┬────────────────────────────────────┘
                              │
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                   AUGMENTATION LAYER                             │
-│  Combines:                                                       │
-│  • Original log message                                          │
-│  • Retrieved context (classification rules)                      │
-│  • Structured prompt template                                    │
+│                   AUGMENTATION LAYER                            │
+│  Combines:                                                      │
+│  • Original log message                                         │
+│  • Retrieved context (classification rules)                     │
+│  • Structured prompt template                                   │
 └────────────────────────────┬────────────────────────────────────┘
                              │
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    GENERATION LAYER                              │
-│  ┌──────────────────────────────────────────────────────────┐  │
-│  │  Google Gemini LLM                                       │  │
-│  │  • Analyzes log + context                               │  │
-│  │  • Generates structured JSON output                     │  │
-│  │  • Provides confidence score                            │  │
-│  └──────────────────────────────────────────────────────────┘  │
+│                    GENERATION LAYER                             │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │  Google Gemini LLM                                       │   │
+│  │  • Analyzes log + context                                │   │
+│  │  • Generates structured JSON output                      │   │
+│  │  • Provides confidence score                             │   │
+│  └──────────────────────────────────────────────────────────┘   │
 └────────────────────────────┬────────────────────────────────────┘
                              │
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                      OUTPUT LAYER                                │
-│  Structured Classification:                                      │
-│  • eventClass, eventOutcome, eventSeverity                       │
-│  • eventAction, eventCategory                                    │
-│  • Combined confidence score                                     │
-│  • Export as JSON/CSV                                            │
+│                      OUTPUT LAYER                               │
+│  Structured Classification:                                     │
+│  • eventClass, eventOutcome, eventSeverity                      │
+│  • eventAction, eventCategory                                   │
+│  • Combined confidence score                                    │
+│  • Export as JSON/CSV                                           │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

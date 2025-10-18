@@ -65,5 +65,5 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/Abhishek-4px/LogClassification.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name

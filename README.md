@@ -3,6 +3,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Streamlit](https://img.shields.io/badge/Made_with-Streamlit-red.svg)](https://streamlit.io)
+
 An interactive web application built with Streamlit that uses a Retrieval-Augmented Generation (RAG) pipeline to classify security event logs into standardized categories.
 
 ---

@@ -10,7 +10,7 @@ import io
 from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
 
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore') 
 
 def create_knowledge_base():
     knowledge_base = [
@@ -227,3 +227,4 @@ if st.button("Run Classification"):
             csv_out = pd.DataFrame(results).to_csv(index=False)
             st.download_button("Download JSON", json_out, file_name="classified_output.json", mime="application/json")
             st.download_button("Download CSV", csv_out, file_name="classified_output.csv", mime="text/csv")
+

@@ -5,7 +5,7 @@ import time
 import warnings
 import pandas as pd
 import faiss
-import io
+import io.  
 
 from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
